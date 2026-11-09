@@ -13,6 +13,7 @@
 
 <div align="center">
   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alumni+Sans+Collegiate+One&size=30&duration=2500&pause=300&color=2932F7&background=5D020200&width=385&lines=As+we+lock+arms+and+skip+away;They+wish+that+they+were+geeks+in+love)](https://git.io/typing-svg)
   
-![GitHub Views](https://komarev.com/ghpvc/?username=evilattackadventures&amp;color=3649da&amp;style=flat&amp;label=yooo)
+![GitHub Views](https://komarev.com/ghpvc/?username=evilattackadventures&amp;color=3649da&amp;style=flat&amp;label=ALLIES)
 
